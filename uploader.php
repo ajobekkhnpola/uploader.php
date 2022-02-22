@@ -8,7 +8,7 @@
 <meta name="description" content="[ black panther ]" />
 <style>
 body {
-    background: #000000 url(https://media3.giphy.com/media/e5rHVwosWkEbS/giphy.gif) scroll repeat center center;
+    background: #000000 url(https://wallpaperaccess.com/full/1556608.jpg) scroll repeat center center;
     color: silver;
     font-family: Comic Sans MS;
     font-size: 14px;
